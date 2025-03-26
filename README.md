@@ -1,7 +1,7 @@
 # Workflow Dependency Manager
 
 ## Description
-This app will help you create a graphical visulaisation of all the Workflow/Jobs running in your system.
+This app will help you create a graphical visulaisation of all the Workflow/Jobs running in your system along with downstream dependency.
 
 Lets assume you have a sample dependency data as attached and you want to visualize the dependency with real time application running status:
 
