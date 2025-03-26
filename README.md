@@ -1,4 +1,4 @@
-# Workflow Dependecy Manager
+# Workflow Dependency Manager
 
 ## Description
 This app will help you create a graphical visulaisation of all the Workflow/Jobs running in your system.
