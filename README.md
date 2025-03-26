@@ -17,7 +17,9 @@ So this repo will help you to create this visualisation.
 For this use case we are using mysql to store the metadata information
 
 For initial table setup refer **wf-dependency-manager/backend/tree-script.sql**
+
 Use **setup-instructions.txt** from the repo to setup the application to run from local.
+
 Use **setup-instructions-docker.md** to run the application on a docker.
 
 once you do the setup and initialize the application you will see output application like below:
